@@ -1,0 +1,41 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "android/app/src/main/assets/fonts/Sansita/OFL.txt",
+      "sha1": "d9fe8e058cfc3e4e8494c140bdb89ba24c73bc7c"
+    },
+    {
+      "path": "android/app/src/main/assets/fonts/Sansita/Sansita-Black.ttf",
+      "sha1": "183fc9b248d7fe720f91b76b6018d68cc382be53"
+    },
+    {
+      "path": "android/app/src/main/assets/fonts/Sansita/Sansita-BlackItalic.ttf",
+      "sha1": "78ce3a7480acac508349d1468b80820751d3a296"
+    },
+    {
+      "path": "android/app/src/main/assets/fonts/Sansita/Sansita-Bold.ttf",
+      "sha1": "9d9810f8bccf70bc251886c24dbe31ba2f87725b"
+    },
+    {
+      "path": "android/app/src/main/assets/fonts/Sansita/Sansita-BoldItalic.ttf",
+      "sha1": "3d0b4456741605ec44e06472570a35a7d70705c9"
+    },
+    {
+      "path": "android/app/src/main/assets/fonts/Sansita/Sansita-ExtraBold.ttf",
+      "sha1": "a2c6ed0b847804610aca59fced94ce376d561377"
+    },
+    {
+      "path": "android/app/src/main/assets/fonts/Sansita/Sansita-ExtraBoldItalic.ttf",
+      "sha1": "482580ff30fa031a16d9dab188cdb4f61182b2d6"
+    },
+    {
+      "path": "android/app/src/main/assets/fonts/Sansita/Sansita-Italic.ttf",
+      "sha1": "7a2a77fe454cb5e432d3834bf195f6f775728ded"
+    },
+    {
+      "path": "android/app/src/main/assets/fonts/Sansita/Sansita-Regular.ttf",
+      "sha1": "3c93adde784b9d22edad31ed159dc43afc53c27d"
+    }
+  ]
+}
